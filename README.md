@@ -17,3 +17,9 @@ agricultura irrigada /Agência Nacional de Águas e Saneamento Básico. - 2. ed.
 
 Agência Nacional de Águas (Brasil). Atlas irrigação: uso da água na agricultura irrigada. Brasília:
 ANA 2018, 85p. ISBN 978-85-8210-051-6.
+
+
+
+Pivo |  Não Pivo
+:-------------------------:|:-------------------------:
+![](https://github.com/henriqueburis/Classification_Remote_Sensing_pivo_notpivo/blob/main/figs/tile_00016.png) |  ![](https://github.com/henriqueburis/Classification_Remote_Sensing_pivo_notpivo/blob/main/figs/tile_00025.png) 
